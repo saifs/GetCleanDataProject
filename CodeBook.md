@@ -27,7 +27,7 @@ The subject and activity fields do not have units and all of the measurements ar
             STANDING
             LYING
 
-**Average of normalized measurements bounded within [-1,1] (fields 3 to 88)**
+**Average of normalized measurements bounded within {-1,1} (fields 3 to 88)**
 
     Accelerometer 3-axial raw signals for body, in time domain
             3.  Time.domain.body.accelerometer_mean_X.axis
